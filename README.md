@@ -1,6 +1,6 @@
 # WaterDrop
 
-[![Build Status](https://travis-ci.org/karafka/waterdrop.svg)](https://travis-ci.org/karafka/waterdrop)
+[![Build Status](https://github.com/karafka/waterdrop/workflows/ci/badge.svg)]([![Build Status](https://github.com/karafka/waterdrop/workflows/ci/badge.svg)](https://github.com/karafka/waterdrop/actions?query=workflow%3Aci))
 [![Join the chat at https://gitter.im/karafka/karafka](https://badges.gitter.im/karafka/karafka.svg)](https://gitter.im/karafka/karafka?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Gem used to send messages to Kafka in an easy way with an extra validation layer. It is a part of the [Karafka](https://github.com/karafka/karafka) ecosystem.
@@ -111,7 +111,7 @@ Keep in mind, that message you want to send should be either binary or stringifi
 ## References
 
 * [Karafka framework](https://github.com/karafka/karafka)
-* [WaterDrop Travis CI](https://travis-ci.org/karafka/waterdrop)
+* [WaterDrop Actions CI](https://github.com/karafka/waterdrop/actions?query=workflow%3Aci)
 * [WaterDrop Coditsu](https://app.coditsu.io/karafka/repositories/waterdrop)
 
 ## Note on contributions
