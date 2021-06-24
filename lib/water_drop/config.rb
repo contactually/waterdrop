@@ -35,6 +35,9 @@ module WaterDrop
       # option [Array<String>] Array that contains Kafka seed broker hosts with ports
       setting :seed_brokers
 
+      # Specify the hash function used for partitioning
+      setting :hash_function, nil
+
       # Network timeouts
       # option connect_timeout [Integer] Sets the number of seconds to wait while connecting to
       # a broker for the first time. When ruby-kafka initializes, it needs to connect to at
